@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قرض‌دار من</string>
+
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_loans">وام‌ها</string>
+    <string name="nav_reminders">یادآورها</string>
+    <string name="nav_reports">گزارش‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <string name="add_loan">افزودن وام</string>
+    <string name="loan_title">عنوان وام</string>
+    <string name="lender_name">نام طرف/موسسه</string>
+    <string name="loan_type">نوع وام</string>
+    <string name="loan_amount">مبلغ اصلی وام</string>
+    <string name="installment_count">تعداد اقساط</string>
+    <string name="start_date">تاریخ شروع</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="delete">حذف</string>
+    <string name="edit">ویرایش</string>
+
+    <string name="status_pending">پرداخت‌نشده</string>
+    <string name="status_paid">پرداخت‌شده</string>
+    <string name="status_late">عقب‌افتاده</string>
+    <string name="status_settled">تسویه‌شده</string>
+
+    <string name="overlay_permission_title">دسترسی نمایش روی برنامه‌ها</string>
+    <string name="overlay_permission_desc">برای نمایش یادآور روی سایر برنامه‌ها این دسترسی لازم است.</string>
+    <string name="grant_permission">اعطای دسترسی</string>
+
+    <string name="backup_title">پشتیبان‌گیری و بازیابی</string>
+    <string name="backup_export">خروجی گرفتن از داده‌ها</string>
+    <string name="backup_import">بازیابی از فایل پشتیبان</string>
+    <string name="backup_success">با موفقیت انجام شد</string>
+    <string name="backup_failure">عملیات ناموفق بود</string>
+
+    <string name="dark_mode">حالت تاریک</string>
+    <string name="notification_channel_name">یادآوری اقساط</string>
+    <string name="notification_channel_desc">اعلان‌های مربوط به سررسید اقساط و پرداخت‌ها</string>
+</resources>
